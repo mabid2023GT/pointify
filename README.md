@@ -1,3 +1,5 @@
+![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+
 # MyAppointmentsApp
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.0.6.
